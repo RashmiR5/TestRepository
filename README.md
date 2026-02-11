@@ -1,2 +1,2 @@
 # TestRepository
-First repository to try Github and git
+First repository to try Github and git.
